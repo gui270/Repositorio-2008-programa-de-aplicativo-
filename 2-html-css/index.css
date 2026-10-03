@@ -1,0 +1,32 @@
+body{
+    /* background-color: black; */
+    background-image: url("assets/fundo-pagina.avif");
+
+}
+
+h1 {
+text-align: center;
+color: red;
+font-size: 30px;
+font-family: gigi;
+}
+
+p {
+    text-align: justify;
+    color: blue;
+font-size: 20px;
+}
+
+button{
+    display: block;
+    margin: 30px auto;
+background-color: black;
+border-radius: 10px;
+}
+
+a {
+    display: block;
+    color: white;
+text-decoration: none;
+margin: 8px;
+}

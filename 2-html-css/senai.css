@@ -1,0 +1,24 @@
+h1 {
+text-align: center;
+color: black;
+font-size: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p{
+    text-align: justify;
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+}
+
+button{
+    display: block;
+margin: 29px auto;
+background-color: white;
+border-radius: 13px;
+}
+a {
+display: block;
+color: brown;
+text-decoration: none;
+margin: 15px;
+}
